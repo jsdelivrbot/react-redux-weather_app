@@ -15,5 +15,4 @@ To use:
 
 
 
-Based off of Stephen Grider's Udemy course. 
 
